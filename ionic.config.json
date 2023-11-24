@@ -1,0 +1,7 @@
+{
+  "name": "google_analytics_poc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
